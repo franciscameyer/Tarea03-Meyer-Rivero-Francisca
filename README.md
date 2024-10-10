@@ -1,1 +1,2 @@
-# Tarea03-Meyer-Rivero-Francisca
+Francisca Meyer Rivero
+francisca.meyer@alumnos.uv.cl
